@@ -37,6 +37,18 @@
           <AssociatedConnUserName />
           <FullPath>CteTally.sql</FullPath>
         </FileNode>
+        <FileNode Name="RemoveNumbers.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:SBSDEVSERVER\SBS_DEV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>SBSDEVSERVER\SBS_DEV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>RemoveNumbers.sql</FullPath>
+        </FileNode>
+        <FileNode Name="RemoveNumbersFn.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:SBSDEVSERVER\SBS_DEV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>SBSDEVSERVER\SBS_DEV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>RemoveNumbersFn.sql</FullPath>
+        </FileNode>
         <FileNode Name="SimpleCount.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:SBSDEVSERVER\SBS_DEV:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>SBSDEVSERVER\SBS_DEV</AssociatedConnSrvName>
